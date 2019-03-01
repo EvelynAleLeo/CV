@@ -24,7 +24,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (4 february 2019 to end_date)
+#### Makers Academy (4 February 2019 to end_date)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -35,17 +35,27 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Copenhagen Business School, Copenhagen, Denmark. (September 1996 to June 1998)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Master´s degree in International Marketing and Management
 
 #### Any other qualifications
 
+- Certified Scrum Master (Scrum Alliance) - 2016
+
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**MKSpanish Europe** (September 2018 to present)    
+Freelance Spanish Teacher 
+**www.smartick.es** (June 2013 to March 2018)   
+Responsible for the Customer Care Department
+**Sermark Comunicaciones Téncnicas** (May 2012 to April 2013)
+Costs analyst
+**Avory Celebrity Services** (January 2010 to March 2012)
+CEO Excecutive Assistant
+**SI Delta Software Consulting** (September 2006 to November 20019)
+Office Manager
+**Avory Celebrity Services** (March 2002 to January 2005)
+CEO Excecutive Assistant
+**Nucleos de Organizacion y Administracion** (October 1998 to Februay 2002)
+Costs analyst
