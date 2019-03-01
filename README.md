@@ -1,6 +1,7 @@
-## Your Name
+## Evelyn Blázquez
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am a very positive, team player, servant leader, open-minded and trustworthy person, very comfortable to work with. I have always been involved in projects that have required great initiative, therefore self-motivation to achieve my goals has become one of my core skills. I am looking for a new career in Software Development. What is most important to me is the working environment, I need to be surrounded by positive and inspiring people.
+
 
 ## Skills
 
@@ -23,7 +24,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (4 february 2019 to end_date)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
